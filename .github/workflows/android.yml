@@ -44,4 +44,4 @@ jobs:
     - name: Collect signed APK
       uses: actions/download-artifact@main
       with:
-        name: Demo.apk
+        name: Demo1.apk
